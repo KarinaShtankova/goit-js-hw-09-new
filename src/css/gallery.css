@@ -27,3 +27,16 @@
   width: 360px;
   height: 200px;
 }
+
+
+.wrapper{
+  background: rgba(46, 47, 66, 0.80);
+
+}
+
+body .sl-wrapper .sl-counter{
+  color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+}
